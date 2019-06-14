@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 from psychopy import visual, core, gui, event
 import glob, os
 import random
